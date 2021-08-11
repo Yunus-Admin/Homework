@@ -1,3 +1,2 @@
-let enterText = prompt('Эгегей');
-alert('Эгегей... Эгегей... Эгегей...');
-console.log(enterText);
+let enterText = prompt('Username');
+alert(enterText + '... ' + enterText + '... ' + enterText + '...');
