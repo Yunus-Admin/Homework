@@ -1,2 +1,2 @@
-let enterText = prompt('Username');
+const enterText = prompt('Username');
 alert(enterText + '... ' + enterText + '... ' + enterText + '...');
